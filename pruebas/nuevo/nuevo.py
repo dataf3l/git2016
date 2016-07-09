@@ -1,0 +1,7 @@
+print("algo")
+print("algo")
+print("algo")
+print("algo")
+print("algo")
+print("algo")
+print("algo")
